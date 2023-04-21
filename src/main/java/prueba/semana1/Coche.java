@@ -28,7 +28,7 @@ public class Coche extends Vehiculo {
 
     }
 
-    public String gettipoMarchas() {
+    public String getTipoMarchas() {
         return tipoMarchas;
     }
 

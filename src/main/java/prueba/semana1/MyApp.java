@@ -2,6 +2,10 @@ package prueba.semana1;
 
 /**
  * MyApp.java
+ *
+ * @autor: Antonio Garces
+ * @revisor: Carlos Arranz
+ * @version: 1.0
  */
 public class MyApp {
 
