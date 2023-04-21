@@ -3,8 +3,8 @@ package prueba.semana1;
 /**
  * Barco.java Clase para el objecto Barco
  *
- * @autor: Antonio Garces
- * @revisor: Carlos Arranz
+ * @autor: Antoni
+ * @revisor: Carlos
  * @version: 1.0
  */
 public class Barco extends Vehiculo {
